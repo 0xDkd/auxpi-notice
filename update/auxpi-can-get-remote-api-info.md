@@ -9,4 +9,5 @@ description = "auxpi 的一个小小的更新"
 tags = ["remote", "go", "auxpi"]
 +++
 
+
 终于用现成的系统给 auxpi 做了一个远程的 api 接口
