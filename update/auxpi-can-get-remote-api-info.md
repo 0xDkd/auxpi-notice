@@ -1,13 +1,15 @@
 +++
 title = "auxpi 可以获取远程信息啦"
 author = "aimer"
-github_url = "https://"
-head_img = ""
+github_url = ""
+head_img = "https://test.demo-1s.com/dispatch/eed13f45136fa36a03cb97a9d263797b"
 created_at = 2019-05-18T19:37:25
 updated_at = 2019-05-18T19:37:25
 description = "auxpi 的一个小小的更新"
 tags = ["remote", "go", "auxpi"]
 +++
+
+![auxpi-logo](https://test.demo-1s.com/dispatch/eed13f45136fa36a03cb97a9d263797b)
 
 这周六考完试以后终于余处一点时间来了，于是给 auxpi 做了一个小小的升级，现在 auxpi 可以通过 api 来远程获取公告信息啦。
 
