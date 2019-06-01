@@ -3,8 +3,8 @@ title = "关于 auxpi 对接 flickr 图床的一些坑"
 author = "aimer"
 github_url = ""
 head_img = "https://test.demo-1s.com/dispatch/3eef09272b0d6d66d20878283d676a90"
-created_at = 2019-06-1T18:05:25
-updated_at = 2019-06-1T18:05:25
+created_at = 2019-06-01T18:05:25
+updated_at = 2019-06-01T18:05:25
 description = "flickr 的认证真的是坑坑坑啊"
 tags = ["remote", "go", "auxpi"]
 +++
